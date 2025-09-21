@@ -1,3 +1,6 @@
 [submodule "Certified Exploit Development Professional"]
 	path = Certified Exploit Development Professional
 	url = https://github.com/yawfu/cedp
+[submodule "Mandarin"]
+	path = Mandarin
+	url = https://github.com/yawfu/hanyu
